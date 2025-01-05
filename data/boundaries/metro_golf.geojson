@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Metropolitan Golf Links"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[
+          [-122.2081, 37.7394],
+          [-122.2081, 37.7494],
+          [-122.1981, 37.7494],
+          [-122.1981, 37.7394],
+          [-122.2081, 37.7394]
+        ]]
+      }
+    }
+  ]
+}
